@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h3 {
+    font-family: 'Big Shoulders Display';
+    font-size: 25px;
+    font-weight: 600;
+}
+
+p {
+    font-family: 'Lexend Deca';
+    font-size: 10px;
+    font-weight: 400;
+    color: rgb(234, 228, 228);
+}
+
+button {
+    font-family: 'Lexend Deca';
+    font-size: 12px;
+    font-weight: 400;
+    border-radius:15px;
+    background-color:aliceblue;
+}
